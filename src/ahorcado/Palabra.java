@@ -15,6 +15,7 @@ public class Palabra {
    String Palabras []={"cacao","dolor","carne","afecto","nacer","morir","vivir","obeso","raton","radio","volar","calvo","soñar"};
    Void EscojerPalabra(){
        Random MiPalabraA= new Random();
+       return null;
        
    }
 }

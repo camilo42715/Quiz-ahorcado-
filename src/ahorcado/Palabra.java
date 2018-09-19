@@ -24,7 +24,7 @@ public class Palabra {
     }
 
     int numerodeceldas() {
-        
+         
         char letra=palabraEscogida.charAt(4);
          return palabraEscogida.length();
          
